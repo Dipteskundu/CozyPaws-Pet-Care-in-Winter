@@ -1,0 +1,110 @@
+[
+  {
+    "serviceId": 1,
+    "serviceName": "Winter Coat Fitting for Dogs",
+    "providerName": "PawCare Studio",
+    "providerEmail": "info@pawcare.com",
+    "price": 25,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Custom coat fitting and warm outfit options to keep your dog comfortable in the cold. Our expert tailors ensure a perfect fit for any breed or size, using high-quality thermal fabrics and waterproof materials. We also offer style choices from cozy hoodies to elegant winter jackets, making your pet both warm and fashionable this season. Every fitting includes a comfort check and a free accessory suggestion to enhance your dog’s winter look. Satisfaction guaranteed with adjustments available within 7 days.",
+    "image": "https://i.ibb.co.com/jvQxrHHX/OIP.webp",
+    "category": "Clothing"
+  },
+  {
+    "serviceId": 2,
+    "serviceName": "Winter Grooming & Paw Treatment",
+    "providerName": "CozyPets Grooming",
+    "providerEmail": "hello@cozypets.com",
+    "price": 30,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Professional grooming with moisturizing paw balm and winter-safe shampoo. This treatment helps protect against dry skin, cracked paws, and static fur common during cold months. Our gentle grooming experts use natural, hypoallergenic products to leave your pet feeling refreshed, clean, and ready to enjoy winter walks. Complimentary coat detangling and fur conditioning are also included for maximum comfort. Each session finishes with a soft towel wrap and calming lavender mist to relax your pet.",
+    "image": "https://i.ibb.co.com/4Z8BNX6H/dreamstime-m-151346835-283x300-jpg-optimal.jpg",
+    "category": "Grooming"
+  },
+  {
+    "serviceId": 3,
+    "serviceName": "Pet Heated Blanket Rental",
+    "providerName": "WarmPaws Supplies",
+    "providerEmail": "contact@warmpaws.com",
+    "price": 15,
+    "rating": 4.7,
+    "slotsAvailable": 5,
+    "description": "Rent cozy heated blankets to keep your pets warm indoors during winter. These electric or battery-powered blankets are made with pet-safe materials and adjustable heat settings. Perfect for senior pets, small breeds, or animals recovering from illness who need extra warmth and comfort at home. Each blanket is sanitized, safety-tested, and delivered with easy-use instructions. Long-term rental discounts and replacement guarantees are also available upon request.",
+    "image": "https://i.ibb.co.com/8QyJMQg/c82178e74565911badb1dc7d7afd753d.jpg",
+    "category": "Accessories"
+  },
+  {
+    "serviceId": 4,
+    "serviceName": "Indoor Winter Dog Exercise Classes",
+    "providerName": "FitFur Gym",
+    "providerEmail": "classes@fitfur.com",
+    "price": 20,
+    "rating": 4.6,
+    "slotsAvailable": 6,
+    "description": "Keep your dog active indoors with fun exercises and games during cold days. Our sessions include obstacle courses, agility training, and playful group interactions designed to burn energy safely inside. Certified trainers ensure every dog enjoys a stimulating workout suited to their age and fitness level. Dogs are grouped by size and temperament for a positive social experience. Participants receive a post-class snack and fitness progress report after each session.",
+    "image": "https://i.ibb.co.com/tpvKmn1M/Spinner-agility-jumping-dog-by-Pam-Voth-Photography-MG-3238-master-CROP-WEB.webp",
+    "category": "Fitness"
+  },
+  {
+    "serviceId": 5,
+    "serviceName": "Winter Pet Nutrition Consultation",
+    "providerName": "HealthyPaws Nutrition",
+    "providerEmail": "support@healthypaws.com",
+    "price": 40,
+    "rating": 4.9,
+    "slotsAvailable": 2,
+    "description": "Get expert guidance on keeping your pets healthy and well-fed during winter. Our certified pet nutritionists tailor meal plans rich in vitamins and omega fatty acids to support coat health and energy levels. Learn how to adjust portion sizes and hydration for your pet’s comfort in colder weather. We also provide detailed recommendations for natural supplements and healthy winter treats. Every consultation includes a digital diet chart and follow-up support for one month.",
+    "image": "https://i.ibb.co.com/XZ7BYK7L/OIP.webp",
+    "category": "Health"
+  },
+  {
+    "serviceId": 6,
+    "serviceName": "Pet Safe Ice Melt Delivery",
+    "providerName": "SnowSafe Pets",
+    "providerEmail": "info@snowsafe.com",
+    "price": 10,
+    "rating": 4.5,
+    "slotsAvailable": 10,
+    "description": "Delivery of pet-safe ice melt to prevent paw injuries on icy paths. Our eco-friendly formula contains no harsh chemicals or salts, ensuring safety for pets and plants alike. Convenient home delivery keeps your driveway and walkways safe without risking burns or irritation on your pet’s paws. Each order includes a free spreading scoop and winter safety tips for pet owners. Bulk order options are available for large households and pet facilities.",
+    "image": "https://i.ibb.co.com/YFmb3n92/Pet-Safe-Ice-Melt-Melt-Safe-Magnesium-Chloride-Fast-Effective-No-Concrete-Damage-Acting-Formula-Prot.webp",
+    "category": "Safety"
+  },
+  {
+    "serviceId": 7,
+    "serviceName": "Winter-Friendly Dog Boarding",
+    "providerName": "CozyPaws Inn",
+    "providerEmail": "stay@cozypawsinn.com",
+    "price": 50,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Warm and comfortable boarding for your pets while you’re away in winter. Our facility offers heated rooms, soft bedding, and constant supervision. Daily playtime, nutritious meals, and gentle care ensure your pets feel safe, loved, and cozy throughout their stay. We also provide webcam access for owners to check in anytime. Complimentary grooming and bedtime treats are included for extended stays.",
+    "image": "https://i.ibb.co.com/4RGxSX2G/OIP.webp",
+    "category": "Boarding"
+  },
+  {
+    "serviceId": 8,
+    "serviceName": "Winter Pet Photography Session",
+    "providerName": "FurLens Studio",
+    "providerEmail": "photos@furlens.com",
+    "price": 35,
+    "rating": 4.9,
+    "slotsAvailable": 5,
+    "description": "Capture beautiful winter memories with professional pet photography. Our expert photographers use creative snow-themed setups, cozy props, and natural lighting to highlight your pet’s personality. Perfect for holiday cards, gifts, or simply keeping adorable seasonal memories forever. Sessions can be held indoors or outdoors depending on your pet’s comfort. Each booking includes five edited digital photos and one framed print.",
+    "image": "https://i.ibb.co.com/n8mrCG09/OIP.webp",
+    "category": "Photography"
+  },
+  {
+    "serviceId": 9,
+    "serviceName": "Veterinary Winter Check-Up",
+    "providerName": "HealthyPets Clinic",
+    "providerEmail": "appointments@healthypets.com",
+    "price": 60,
+    "rating": 4.7,
+    "slotsAvailable": 4,
+    "description": "Comprehensive winter check-up to ensure your pets stay healthy and safe. Our veterinarians perform detailed examinations focusing on joints, skin, and respiratory health — areas often affected by cold weather. Early detection and seasonal care recommendations help prevent common winter-related issues. Vaccination updates and cold-weather diet advice are provided during each visit. Emergency consultation add-ons are also available for ongoing winter health support.",
+    "image": "https://i.ibb.co.com/d4xkMPNc/grace-image-10.jpg",
+    "category": "Health"
+  }
+]
