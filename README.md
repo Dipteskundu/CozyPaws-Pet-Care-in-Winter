@@ -1,55 +1,96 @@
 # CozyPaws – Pet Care in Winter
 
-A modern, minimalist single-page application that helps pet owners access winter-specific pet care services, grooming options, warm clothing, expert tips, and professional support. Built with React and Firebase, focusing on usability, responsiveness, and a warm seasonal experience.
+## Description
 
-Live Link: https://carazy-paws.netlify.app/ 
+CozyPaws is a modern, minimalist single-page web application that helps pet owners access winter-specific pet care services, grooming options, warm clothing, expert tips, and professional support. It focuses on usability, responsiveness, and a warm seasonal experience so pets stay safe and comfortable during cold weather.
 
+## Live Project Link
 
+- Live Site: https://carazy-paws.netlify.app/
 
-## Technologies
-
-* React
-* React Router
-* Firebase Authentication
-* Tailwind CSS / DaisyUI
-* Swiper
-* AOS
-* React Hot Toast
+## Screenshot
+<img align="center" width="60%" src="https://i.ibb.co.com/RkV9dqQv/Screenshot-2025-11-27-161225.png" alt="Screenshot of CozyPaws – Pet Care in Winter">
 
 
-## Purpose of the Application
+## Technologies Used
 
-WarmPaws is designed to support pet owners during the winter season by providing easy access to essential care services that help keep their pets warm, safe, and healthy. Winter often brings challenges such as cold temperatures, dry skin, paw damage from ice or salt, and the need for additional grooming or protective clothing. WarmPaws addresses these needs by offering a centralized platform where users can explore winter-specific pet care services, learn helpful seasonal tips, and connect with professionals.
+- React
+- Vite
+- React Router
+- Firebase (Authentication and data)
+- Tailwind CSS
+- DaisyUI
+- Swiper
+- AOS (Animate On Scroll)
+- React Toastify
+- Lucide React Icons
 
-The key objective is to make winter pet care simple, accessible, and informed through a clean, user-friendly, modern interface.
+## Core Features
 
+- Winter-focused pet care landing page with a clean, responsive UI
+- Sections for grooming, warm clothing, and seasonal health tips
+- Authentication and user state handled with Firebase
+- Interactive carousels and sliders for services using Swiper
+- Smooth scroll-based animations powered by AOS and Animate.css
+- Toast notifications for user feedback with React Toastify
+- Mobile-first design optimized for different screen sizes
 
-## Who Is This Web Application For?
+## Dependencies Used
 
-### 1. **Pet Owners**
+Runtime dependencies:
 
-The primary audience includes pet owners who want to ensure their pets receive proper winter care. This site helps them:
+- `@react-spring/web`
+- `animate.css`
+- `aos`
+- `firebase`
+- `lucide-react`
+- `react`
+- `react-dom`
+- `react-icons`
+- `react-router`
+- `react-toastify`
+- `swiper`
 
-* Learn about winter grooming and nutrition
-* Discover cold-weather care services
-* Book fittings or treatments
-* Access expert advice
+Development dependencies:
 
-### 2. **New Pet Owners**
+- `@eslint/js`
+- `@tailwindcss/vite`
+- `@types/react`
+- `@types/react-dom`
+- `@vitejs/plugin-react`
+- `daisyui`
+- `eslint`
+- `eslint-plugin-react-hooks`
+- `eslint-plugin-react-refresh`
+- `globals`
+- `install`
+- `npm`
+- `tailwindcss`
+- `vite`
 
-People new to caring for pets may not know how winter affects animals. This platform gives them:
+## How to Run the Project Locally
 
-* Basic guidance
-* Professional tips
-* Safe-care recommendations
+1. Make sure you have Node.js and npm installed.
+2. Download or clone this repository to your machine.
+3. Open a terminal in the project folder:
+   - `cd CozyPaws-Pet-Care-in-Winter`
+4. Install dependencies:
+   - `npm install`
+5. Start the development server:
+   - `npm run dev`
+6. Open the URL shown in the terminal (usually `http://localhost:5173/`) in your browser.
 
-### 3. **Pet Care Providers (indirect audience)**
+To build the project for production:
 
-Service providers may use the platform to understand what owners are looking for during winter and how to offer specialized services.
+- `npm run build`
 
-### 4. **Anyone Seeking Winter Pet Safety Knowledge**
+To preview the production build locally:
 
-Even non-pet owners (planning to adopt or help street animals) can benefit from winter safety tips and general pet care ideas.
+- `npm run preview`
 
+## Additional Links & Resources
 
+- React Documentation: https://react.dev/
+- Vite Documentation: https://vitejs.dev/
+- Firebase Documentation: https://firebase.google.com/docs
 
